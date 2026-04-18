@@ -1,0 +1,1 @@
+trojan://humanity@192.168.1.100:40443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#laptop2
